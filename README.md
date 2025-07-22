@@ -2,7 +2,7 @@
 
 ## Overview
 
-This C++ program is a menu-driven system designed to manage and analyze COVID-19 vaccination records. It reads data from three external text files—citizens, vaccines, and vaccinations—and stores them using arrays and structures. The system allows users to view detailed records, search for individual vaccination data, and receive vaccine recommendations based on age and dose history.
+This simple C++ program is a menu-driven system designed to manage and analyze COVID-19 vaccination records. It reads data from three external text files—citizens, vaccines, and vaccinations—and stores them using arrays and structures. The system allows users to view detailed records, search for individual vaccination data, and receive vaccine recommendations based on age and dose history.
 
 ## Features
 
